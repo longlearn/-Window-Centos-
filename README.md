@@ -1,6 +1,6 @@
 # -Window-Centos-
-在Window主机上使用Xshell工具连接虚拟机的Centos系统
-
+在Window主机上使用Xshell工具连接虚拟机的Centos系统  
+原文：[用xshell连接VMware中的Linux](https://blog.csdn.net/n950814abc/article/details/79512834)
 ## 准备工作
 * 下载安装XShell
 * 安装好VMware虚拟机l
